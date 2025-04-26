@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OLTApp
+Comment=Gerenciador de OLTs Huawei
+Exec=/CAMINHO/ABSOLUTO/run.sh
+Icon=/CAMINHO/ABSOLUTO/resources/oltapp-icon.png
+Terminal=false
+Type=Application
+Categories=Network;
+StartupWMClass=OLTApp
