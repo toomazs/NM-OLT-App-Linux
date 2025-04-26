@@ -43,7 +43,7 @@ clone the repo or get the latest `.zip` with everything already bundled.
 
 ```bash
 git clone https://github.com/toomazs/NM-OLT-App.git
-cd NM-OLT-App/linux
+cd NM-OLT-App-Linux
 ```
 
 ### 2. compile and install
@@ -57,7 +57,7 @@ chmod +x compile.sh
 
 this will:
 - compile the whole project
-- generate the OLTApp.jar
+- generate the `OLTApp.jar`
 - install the icon automatically in your system
 - validate the launcher so it appears cleanly in the application menu - just click it
 
